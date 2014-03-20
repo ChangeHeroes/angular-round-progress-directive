@@ -1,0 +1,20 @@
+{
+  "name": "angular-round-progress-directive",
+  "version": "0.0.1",
+  "description": "angular-round-progress-directive",
+  "main": "angular-round-progress-directive.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ChangeHeroes/angular-round-progress-directive.git"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/ChangeHeroes/angular-round-progress-directive/issues"
+  },
+  "homepage": "https://github.com/ChangeHeroes/angular-round-progress-directive",
+  "files": ["angular-round-progress-directive.js"]
+}
